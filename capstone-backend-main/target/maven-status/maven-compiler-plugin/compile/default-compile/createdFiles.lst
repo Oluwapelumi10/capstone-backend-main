@@ -1,0 +1,5 @@
+com/bkss/capstone/repository/ClientRepository.class
+com/bkss/capstone/CapstoneClientManagementApp.class
+com/bkss/capstone/controller/ClientsController.class
+com/bkss/capstone/BoostrapInitialData.class
+com/bkss/capstone/domain/Client.class
